@@ -44,9 +44,7 @@ The project follows a linear user flow for navigation between pages:
 
 Below is a preview image of one of the pages in the project.
 
-**Product View Page Example**
 <img src="project_preview_img.jpg" alt="Simple Project Flow Diagram" width="600">
----
 
 ## 📝 Key Features
 
